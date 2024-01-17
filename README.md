@@ -6,7 +6,16 @@
 
 ---
 
-### Container Images
+### Linux Distros
+
+- [Pop!_OS](https://pop.system76.com/): a very polished Ubuntu based distro, which includes a lot of enhancements, great graphic card hardware support and power management.
+- [Ubuntu Core](https://ubuntu.com/core): for IoT and embedded environments, optimised for security and reliable ota updates. Great for running containers on a low powered device such as a NUC.
+
+### Local Container Images
+
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac OS X in Docker with near-native performance. A very interesting project.
+
+### Server Container Images
 
 - [Code-server](https://hub.docker.com/r/linuxserver/code-server): VS Code running in a container and accessible through the browser.
 - [Lidarr](https://hub.docker.com/r/linuxserver/lidarr): music collection manager, accessible through the browser.
@@ -21,11 +30,6 @@
 - [Transmission](https://hub.docker.com/r/linuxserver/transmission): web version of the popular torrent client.
 - [VSCodium](https://hub.docker.com/r/linuxserver/vscodium): is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code that runs in a container and accessible through the browser.
 - [Watchtower](https://github.com/containrrr/watchtower): automates container base image updates.
-
-### Linux Distros
-
-- [Pop!_OS](https://pop.system76.com/): a very polished Ubuntu based distro, which includes a lot of enhancements, great graphic card hardware support and power management.
-- [Ubuntu Core](https://ubuntu.com/core): for IoT and embedded environments, optimised for security and reliable ota updates. Great for running containers on a low powered device such as a NUC.
 
 ### Sites
 
