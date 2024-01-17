@@ -1,14 +1,24 @@
 # geeky
 
-`geeky` is a list of technical articles, sites, software that I find interesting.
+`geeky` is a list of technical articles, sites, software, hardware that I find interesting.
 
 [![google-definition-search](./.images/Screenshot%20from%202024-01-17%2013-47-15.png)](https://www.google.com/search?q=geeky+definition)
 
 ---
 
+### Articles
+
+- [Introduction to Spring AI](https://www.baeldung.com/spring-ai)
+
+### Hardware
+
+- [Rabbit R1](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date): AI-powered gadget that can use your apps for you.
+- [Topton N6005 / N5105 Mini-ITX NAS Motherboard](https://www.ebay.com/itm/126259718077): has embedded CPU, low powered motherboard and 6 SATA ports. An excellent for your own home server.
+
 ### Linux Distros
 
-- [Pop!_OS](https://pop.system76.com/): a very polished Ubuntu based distro, which includes a lot of enhancements, great graphic card hardware support and power management.
+- [JELOS](https://github.com/JustEnoughLinuxOS/distribution): an immutable Linux distribution for handheld gaming devices.
+- [Pop!_OS](https://pop.system76.com/): a very polished Ubuntu based distro for desktop, which includes a lot of enhancements, great graphic card hardware support and power management.
 - [Ubuntu Core](https://ubuntu.com/core): for IoT and embedded environments, optimised for security and reliable ota updates. Great for running containers on a low powered device such as a NUC.
 
 ### Local Container Images
@@ -34,3 +44,7 @@
 ### Sites
 
 - [LinuxServer.io](https://www.linuxserver.io/): optimised, frequently updated community maintained container images.
+
+### Software
+
+- [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on Linux machine.
