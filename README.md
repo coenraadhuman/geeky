@@ -48,3 +48,5 @@
 ### Software
 
 - [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on Linux machine.
+- [Plexamp](https://www.plex.tv/plexamp/): completely custom music player for audiophiles. Integration available with Tidal and you can serve your own music from your Plex server.
+- [TIDAL Hi-Fi](https://github.com/Mastermindzh/tidal-hifi): The web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine for you Linux machine.
