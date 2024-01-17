@@ -17,6 +17,7 @@
 
 ### Linux Distros
 
+- [Daphile](https://www.daphile.com/): is an audiophile class music server & player OS - targeted to dedicated headless PC.
 - [JELOS](https://github.com/JustEnoughLinuxOS/distribution): an immutable Linux distribution for handheld gaming devices.
 - [Pop!_OS](https://pop.system76.com/): a very polished Ubuntu based distro for desktop, which includes a lot of enhancements, great graphic card hardware support and power management.
 - [Ubuntu Core](https://ubuntu.com/core): for IoT and embedded environments, optimised for security and reliable ota updates. Great for running containers on a low powered device such as a NUC.
@@ -47,6 +48,8 @@
 
 ### Software
 
+- [Grafana](https://grafana.com/): is the open source analytics & monitoring solution for every database.
+- [Homebridge](https://homebridge.io/):  allows you to integrate with smart home devices that do not natively support HomeKit.
 - [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on Linux machine.
 - [Plexamp](https://www.plex.tv/plexamp/): completely custom music player for audiophiles. Integration available with Tidal and you can serve your own music from your Plex server.
 - [TIDAL Hi-Fi](https://github.com/Mastermindzh/tidal-hifi): The web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine for you Linux machine.
