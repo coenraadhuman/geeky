@@ -8,6 +8,8 @@
 ### Docker
 
 - [21 Best Practises in 2021 for Dockerfile](https://chrisedrego.medium.com/20-best-practise-in-2020-for-dockerfile-bb04104bffb6)
+- [Docker ARG, ENV and .env - a Complete Guide](https://vsupalov.com/docker-arg-env-variable-guide/)
+- [Run GUI Applications in a Docker Container](https://gursimarsm.medium.com/run-gui-applications-in-a-docker-container-ca625bad4638)
 
 ### Git
 
@@ -34,6 +36,7 @@ _Database_
 - [Hibernate – Mapping Date and Time](https://www.baeldung.com/hibernate-date-time)
 - [Hibernate Second-Level Cache](https://www.baeldung.com/hibernate-second-level-cache)
 - [JPA and Hibernate – Criteria vs. JPQL vs. HQL Query](https://www.baeldung.com/jpql-hql-criteria-query)
+- [JPA Entity Lifecycle Events](https://www.baeldung.com/jpa-entity-lifecycle-events)
 - [Persist a JSON Object Using Hibernate](https://www.baeldung.com/hibernate-persist-json-object)
 - [Spring Data JPA @Modifying Annotation](https://www.baeldung.com/spring-data-jpa-modifying-annotation)
 - [Spring JPA – Multiple Databases](https://www.baeldung.com/spring-data-jpa-multiple-databases)
@@ -45,8 +48,14 @@ _Dependency Injection_
 
 _Functional_
 - [Functional Interfaces in Java 8](https://www.baeldung.com/java-8-functional-interfaces)
+- [Imperative to Functional Programming in Java](https://symphony.is/about-us/blog/imperative-to-functional-programming-in-java)
 
 _JVM_
+- [Application Class Data Sharing (AppCDS)](https://medium.com/@toparvion/appcds-for-spring-boot-applications-first-contact-6216db6a4194)
+- [How to control Java Heap Size Allocation](https://alvinalexander.com/blog/post/java/java-xmx-xms-memory-heap-size-control/)
+- [OpenJ9](https://www.eclipse.org/openj9/): a JVM optimized for the Cloud. Boasts faster startup, faster ramp-up, when deployed to cloud.
+
+Smaller 
 - [Tiered Compilation in JVM](https://www.baeldung.com/jvm-tiered-compilation)
 
 _Gradle_
@@ -62,12 +71,26 @@ _Libraries_
 _Logging_
 - [Changing the Logging Level at the Runtime for a Spring Boot Application](https://www.baeldung.com/spring-boot-changing-log-level-at-runtime)
 
+_Lombok_
+- [Lombok Configuration System](https://projectlombok.org/features/configuration)
+- [How to make Lombok copy @Qualifier on generated constructers for Spring](https://ath3nd.wordpress.com/2018/12/13/spring-lombok-or-injection-just-became-a-bit-easier-part-2-of-2/)
+
+_Maven_
+- [Additional Source Directories in Maven](https://www.baeldung.com/maven-add-src-directories)
+- [Cross Compiling In Java](https://blog.damavis.com/en/cross-compiling-in-java/)
+
+_Mapping_
+- [Quick Guide to MapStruct](https://www.baeldung.com/mapstruct)
+
 _OpenAPI_
 - [Configure JWT Authentication for OpenAPI](https://www.baeldung.com/openapi-jwt-authentication)
 
 _Performance_
 - [Java Performance - Stream vs Loops and Lists vs Arrays](https://medium.com/levi-niners-crafts/java-performance-improvement-java-8-streams-vs-loops-and-lists-vs-arrays-e824136832d6)
 - [When to Use a Parallel Stream in Java](https://www.baeldung.com/java-when-to-use-parallel-stream)
+
+_Reflection_
+- [Method Parameter Reflection in Java](https://www.baeldung.com/java-parameter-reflection)
 
 _Regex_
 - [A Guide To Java Regular Expressions API](https://www.baeldung.com/regular-expressions-java)
@@ -82,6 +105,8 @@ _Spring_
 - [Guide to @ConfigurationProperties in Spring Boot](https://www.baeldung.com/configuration-properties-in-spring-boot)
 - [Introduction to Spring AI](https://www.baeldung.com/spring-ai)
 - [Introduction to Spring AOP](https://www.baeldung.com/spring-aop)
+- [Spring Candidate Component Index](http://www.javabyexamples.com/spring-candidate-component-index): useful when running Spring applications in containers to improve startup.
+- [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/)
 
 _Testing_
 - [Guide to JUnit 5 Parameterized Tests](https://www.baeldung.com/parameterized-tests-junit-5)
@@ -91,11 +116,16 @@ _Validation_
 - [Spring Boot - Creating a Custom Annotation for Validation](https://blog.clairvoyantsoft.com/spring-boot-creating-a-custom-annotation-for-validation-edafbf9a97a4)
 - [Validation with Spring Boot - the Complete Guide](https://reflectoring.io/bean-validation-with-spring-boot/)
 
+_XML_
+- [XPath Path Expressions](https://www.w3schools.com/xml/xml_xpath.asp)
+
 ### Linux
 
+- [Enable PipeWire on Ubuntu 22.04](https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e): Github Girst on using PipeWire for audio and Bluetooth instead of PulseAudio.
 - [How to compile Bash script into binary](https://www.simplified.guide/bash/compile-script)
 - [How to Pretty Print JSON File in Linux Terminal](https://itsfoss.com/pretty-print-json-linux/)
-- [Shell Script Compiler](https://github.com/neurobin/shc)
-- [Enable PipeWire on Ubuntu 22.04](https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e): Github Girst on using PipeWire for audio and Bluetooth instead of PulseAudio.
 - [Hi-Res USB DAC Linux - PipeWire](https://forum.manjaro.org/t/howto-set-up-a-hi-res-audiophile-usb-dac-cambridge-audio/80724): nice post on setting the bitrate and bit depth of your USB DAC using PipeWire.
 - [Keychron Linux Fixes and Configuration](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195e444): useful Github Gist on using Keychron keyboards on Linux.
+- [Set environment variables from file of key/value pairs in Bash](https://stackoverflow.com/questions/19331497/set-environment-variables-from-file-of-key-value-pairs/66118031#66118031)
+- [Shell Script Compiler](https://github.com/neurobin/shc)
+- [View CSV Data from the Command Line](https://chrisjean.com/view-csv-data-from-the-command-line/)
