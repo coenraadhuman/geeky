@@ -28,9 +28,17 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 <a id="hardware"></a>
 ### Hardware
 
+#### Audio
+
+- [FiiO BTR7](https://www.headfonia.com/fiio-btr7-review/): portable Bluetooth DAC & Amplifier with balanced output. Wired USB DAC mode supports; native DSD up to DSD256, PCM 32bits up to 384kHz and MQA 8x Support.
+- [FiiO K7 BT](https://www.headfonia.com/fiio-k7-bt-review/): desktop DAC & AMP with Bluetooth; supports native DSD256, PCM 32bits up to 384kHz.
+  
+#### Computer
+- [Topton N6005 / N5105 Mini-ITX NAS Motherboard](https://www.ebay.com/itm/126259718077): has embedded CPU, low powered motherboard and 6 SATA ports. An excellent for your own home server.
+
+#### Handheld
 - [PowKiddy RGB30](https://retrogamecorps.com/2023/10/27/powkiddy-rgb30-starter-guide/): handheld console with a 1:1 720p screen, ARM quad-core 1.8GHz CPU, LPDDR4 1GB and built-in 4100mA li-polymer battery. Super cool device and well supported by JELOS Linux.
 - [Rabbit R1](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date): AI-powered gadget that can use your apps for you.
-- [Topton N6005 / N5105 Mini-ITX NAS Motherboard](https://www.ebay.com/itm/126259718077): has embedded CPU, low powered motherboard and 6 SATA ports. An excellent for your own home server.
 
 <a id="iot"></a>
 ### IoT
@@ -47,6 +55,7 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 
 - [Daphile](https://www.daphile.com/): is an audiophile class music server & player OS - targeted to dedicated headless PC.
 - [JELOS](https://github.com/JustEnoughLinuxOS/distribution): an immutable Linux distribution for handheld gaming devices.
+- [OpenMediaVault](https://www.openmediavault.org/): distribution designed for network-attached storage.
 - [Pop!_OS](https://pop.system76.com/): a very polished Ubuntu based distro for desktop, which includes a lot of enhancements, great graphic card hardware support and power management.
 - [Ubuntu Core](https://ubuntu.com/core): for IoT and embedded environments, optimised for security and reliable ota updates. Great for running containers on a low powered device such as a NUC.
 
@@ -58,7 +67,7 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 <a id="local-software"></a>
 ### Local Software
 
-- [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on Linux machine.
+- [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on a Linux machine.
 - [Plexamp](https://www.plex.tv/plexamp/): completely custom music player for audiophiles. Integration available with Tidal and you can serve your own music from your Plex server.
 - [TIDAL Hi-Fi](https://github.com/Mastermindzh/tidal-hifi): The web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine for you Linux machine.
 
