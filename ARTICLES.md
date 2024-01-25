@@ -1,25 +1,42 @@
 # Articles
 
+Interesting web articles found on the web.
+
+---
+**Table of Content:**
+- [Audio](#audio)
+- [Docker](#docker)
+- [Git](#git)
+- [Hardware](#hardware)
+- [Java](#java)
+- [Linux](#linux)
+---
+
+<a id="audio"></a>
 ### Audio
 
 - [Digital Audio Basics: Sample Rate and Bit Depth](https://legacy.presonus.com/learn/technical-articles/sample-rate-and-bit-depth)
 - [Understanding Sample Rate, Bit Depth, and Bit Rate](https://www.headphonesty.com/2019/07/sample-rate-bit-depth-bit-rate/)
 
+<a id="docker"></a>
 ### Docker
 
 - [21 Best Practises in 2021 for Dockerfile](https://chrisedrego.medium.com/20-best-practise-in-2020-for-dockerfile-bb04104bffb6)
 - [Docker ARG, ENV and .env - a Complete Guide](https://vsupalov.com/docker-arg-env-variable-guide/)
 - [Run GUI Applications in a Docker Container](https://gursimarsm.medium.com/run-gui-applications-in-a-docker-container-ca625bad4638)
 
+<a id="git"></a>
 ### Git
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [How to Create a Gitlab Merge Request Using Just One Command](https://javascript.plainenglish.io/how-to-create-gitlab-merge-request-using-one-command-a57d857ea94c)
 
+<a id="hardware"></a>
 ### Hardware
 
 - [DIY NAS: 2023 Edition](https://blog.briancmoses.com/2023/03/diy-nas-2023-edition.html?ref=ajfriesen.com): uses the Topton motherboard for a nice compact and affordable NAS.
 
+<a id="java"></a>
 ### Java
 
 Includes articles on the Spring Framework, Maven, Gradle, Java libraries and others.
@@ -119,6 +136,7 @@ _Validation_
 _XML_
 - [XPath Path Expressions](https://www.w3schools.com/xml/xml_xpath.asp)
 
+<a id="linux"></a>
 ### Linux
 
 - [Enable PipeWire on Ubuntu 22.04](https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e): Github Girst on using PipeWire for audio and Bluetooth instead of PulseAudio.
