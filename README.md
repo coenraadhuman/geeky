@@ -15,8 +15,8 @@
 - [Local Software](#local-software)
 - [Mobile Distros](#mobile-distros)
 - [Server Container Images](server-images)
-- [Sites](#sites)
 - [Server Software](#server-software)
+- [Sites](#sites)
 - [Software as a Service](#saas)
 ---
 
@@ -130,15 +130,6 @@ Includes articles on the Spring Framework, Maven, Gradle, Java libraries and oth
 - [VSCodium](https://hub.docker.com/r/linuxserver/vscodium): is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code that runs in a container and accessible through the browser.
 - [Watchtower](https://github.com/containrrr/watchtower): automates container base image updates.
 
-<a id="sites"></a>
-### Sites
-
-- [AniChart](https://anichart.net/): great site for viewing the latest anime releases for the current season and past ones.
-- [Ars Technica](https://arstechnica.com/): is a website covering news and opinions in technology, science, politics, and society.
-- [ExtremeTech](https://www.extremetech.com/): is a technology weblog, launched in June 2001, which focuses on hardware, computer software, science and other technologies.
-- [Liliputing](http://liliputing.com/): Covering mobile tech news, tips and reviews with a focus on smartphones, tablets, notebook, and handheld computers as well as tiny desktop PCs.
-- [LinuxServer.io](https://www.linuxserver.io/): optimised, frequently updated community maintained container images.
-
 <a id="server-software"></a>
 ### Server Software
 
@@ -147,6 +138,15 @@ Provides interface normally through the browser, ideal for headless machine:
 - [Grafana](https://grafana.com/): is the open source analytics & monitoring solution for every database that you can host on your machine.
 - [Homebridge](https://homebridge.io/):  allows you to integrate with smart home devices that do not natively support HomeKit.
 - [Kasm Workspaces](https://kasmweb.com/): Streaming containerized apps and desktops to end-users. Offers community edition.
+
+<a id="sites"></a>
+### Sites
+
+- [AniChart](https://anichart.net/): great site for viewing the latest anime releases for the current season and past ones.
+- [Ars Technica](https://arstechnica.com/): is a website covering news and opinions in technology, science, politics, and society.
+- [ExtremeTech](https://www.extremetech.com/): is a technology weblog, launched in June 2001, which focuses on hardware, computer software, science and other technologies.
+- [Liliputing](http://liliputing.com/): Covering mobile tech news, tips and reviews with a focus on smartphones, tablets, notebook, and handheld computers as well as tiny desktop PCs.
+- [LinuxServer.io](https://www.linuxserver.io/): optimised, frequently updated community maintained container images.
 
 <a id="saas"></a>
 ### Software as a Service (SaaS)
