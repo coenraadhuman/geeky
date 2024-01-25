@@ -28,7 +28,7 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 <a id="hardware"></a>
 ### Hardware
 
-- [PowKiddy RGB30](https://powkiddy.com/products/pre-sale-powkiddy-rgb30-rk3566-handheld-game-console-built-in-wifi): handheld console with a 1:1 720p screen, ARM quad-core 1.8GHz CPU, LPDDR4 1GB and built-in 4100mA li-polymer battery. Super cool device and well supported by JELOS Linux.
+- [PowKiddy RGB30](https://retrogamecorps.com/2023/10/27/powkiddy-rgb30-starter-guide/): handheld console with a 1:1 720p screen, ARM quad-core 1.8GHz CPU, LPDDR4 1GB and built-in 4100mA li-polymer battery. Super cool device and well supported by JELOS Linux.
 - [Rabbit R1](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date): AI-powered gadget that can use your apps for you.
 - [Topton N6005 / N5105 Mini-ITX NAS Motherboard](https://www.ebay.com/itm/126259718077): has embedded CPU, low powered motherboard and 6 SATA ports. An excellent for your own home server.
 
