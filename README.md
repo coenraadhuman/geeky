@@ -18,6 +18,7 @@
 - [Server Software](#server-software)
 - [Sites](#sites)
 - [Software as a Service](#saas)
+- [Software Frameworks](#framework)
 ---
 
 ### [Articles](./ARTICLES.md)
@@ -27,6 +28,7 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 <a id="hardware"></a>
 ### Hardware
 
+- [PowKiddy RGB30](https://powkiddy.com/products/pre-sale-powkiddy-rgb30-rk3566-handheld-game-console-built-in-wifi): handheld console with a 1:1 720p screen, ARM quad-core 1.8GHz CPU, LPDDR4 1GB and built-in 4100mA li-polymer battery. Super cool device and well supported by JELOS Linux.
 - [Rabbit R1](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date): AI-powered gadget that can use your apps for you.
 - [Topton N6005 / N5105 Mini-ITX NAS Motherboard](https://www.ebay.com/itm/126259718077): has embedded CPU, low powered motherboard and 6 SATA ports. An excellent for your own home server.
 
@@ -110,3 +112,9 @@ Provides interface normally through the browser, ideal for headless machine:
 - [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables#)
 - [No-IP](https://www.noip.com/): offers a couple of services, but great for Dynamic DNS for your home router.
 - [Playcode](https://playcode.io/): Browser base JavaScript playground and sandbox to write, run and repl it.
+- [Source Making](https://sourcemaking.com/): site focused on good software architecture by exploring design parterns, anti-patterns, refactoring and uml.
+
+<a id="framework"></a>
+### Software Frameworks
+
+- [NestJS](https://docs.nestjs.com/): is a framework for building efficient, scalable Node.js server-side applications.
