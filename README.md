@@ -8,8 +8,45 @@
 
 ### Articles
 
+#### Audio
+
+- [Digital Audio Basics: Sample Rate and Bit Depth](https://legacy.presonus.com/learn/technical-articles/sample-rate-and-bit-depth)
+- [Understanding Sample Rate, Bit Depth, and Bit Rate](https://www.headphonesty.com/2019/07/sample-rate-bit-depth-bit-rate/)
+
+#### Docker
+
+- [21 Best Practises in 2021 for Dockerfile](https://chrisedrego.medium.com/20-best-practise-in-2020-for-dockerfile-bb04104bffb6)
+
+#### Git
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [How to Create a Gitlab Merge Request Using Just One Command](https://javascript.plainenglish.io/how-to-create-gitlab-merge-request-using-one-command-a57d857ea94c)
+
+#### Java
+
+Includes articles on the Spring Framework, Maven, Gradle, Java libraries and others.
+
+- [Configure JWT Authentication for OpenAPI](https://www.baeldung.com/openapi-jwt-authentication)
+- [Dependency Injection Options for Java](https://keyholesoftware.com/dependency-injection-options-for-java/)
+- [Enforcing code coverage rule with JaCoCo in Maven lifecycle](https://medium.com/@AyushVardhan/enforcing-code-coverage-rule-with-jacoco-in-maven-lifecycle-8ebc1fe3b6ce)
+- [Changing the Logging Level at the Runtime for a Spring Boot Application](https://www.baeldung.com/spring-boot-changing-log-level-at-runtime)
+- [Intro to Spring Boot Starters](https://www.baeldung.com/spring-boot-starters)
 - [Introduction to Spring AI](https://www.baeldung.com/spring-ai)
 - [Introduction to Spring AOP](https://www.baeldung.com/spring-aop)
+- [Jackson Unmarshalling JSON with Unknown Properties](https://www.baeldung.com/jackson-deserialize-json-unknown-properties)
+- [Java Performance - Stream vs Loops and Lists vs Arrays](https://medium.com/levi-niners-crafts/java-performance-improvement-java-8-streams-vs-loops-and-lists-vs-arrays-e824136832d6)
+- [Generate Bill of Material (BOM) with Gradle maven-publish plugin](https://medium.com/mwm-io/generate-bill-of-material-bom-with-maven-publish-plugin-f30b44ab5436)
+- [Guide to JUnit 5 Parameterized Tests](https://www.baeldung.com/parameterized-tests-junit-5)
+- [Method Constraints with Bean Validation 3.0](https://www.baeldung.com/javax-validation-method-constraints)
+- [Spring Boot - Creating a Custom Annotation for Validation](https://blog.clairvoyantsoft.com/spring-boot-creating-a-custom-annotation-for-validation-edafbf9a97a4)
+- [Validation with Spring Boot - the Complete Guide](https://reflectoring.io/bean-validation-with-spring-boot/)
+- [When to Use a Parallel Stream in Java](https://www.baeldung.com/java-when-to-use-parallel-stream)
+
+#### Linux
+
+- [How to compile Bash script into binary](https://www.simplified.guide/bash/compile-script)
+- [How to Pretty Print JSON File in Linux Terminal](https://itsfoss.com/pretty-print-json-linux/)
+- [Shell Script Compiler](https://github.com/neurobin/shc)
 
 ### Hardware
 
@@ -26,6 +63,10 @@
 ### IoT
 
 - [Tasmota](https://tasmota.github.io/docs/): open source firmware for ESP devices.
+
+### Kubernetes
+
+- [KEDA](https://keda.sh/): KEDA is a Kubernetes-based Event Driven Autoscaler. With KEDA, you can drive the scaling of any container in Kubernetes based on the number of events needing to be processed.
 
 ### Linux Distros
 
@@ -80,10 +121,12 @@ Provides interface normally through the browser, ideal for headless machine:
 
 - [Grafana](https://grafana.com/): is the open source analytics & monitoring solution for every database that you can host on your machine.
 - [Homebridge](https://homebridge.io/):  allows you to integrate with smart home devices that do not natively support HomeKit.
+- [Kasm Workspaces](https://kasmweb.com/): Streaming containerized apps and desktops to end-users. Offers community edition.
 
 ### Software as a Service (SaaS)
 
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): quickly generate .gitignore file for your project.
 - [Feedly](https://feedly.com/): news aggregator application for various web browsers and mobile devices running iOS and Android.
+- [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables#)
 - [No-IP](https://www.noip.com/): offers a couple of services, but great for Dynamic DNS for your home router.
 - [Playcode](https://playcode.io/): Browser base JavaScript playground and sandbox to write, run and repl it.
