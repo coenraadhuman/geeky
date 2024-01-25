@@ -5,7 +5,22 @@
 [![google-definition-search](./.images/Screenshot%20from%202024-01-17%2013-47-15.png)](https://www.google.com/search?q=geeky+definition)
 
 ---
+**Table of Content:**
+- [Articles](#articles)
+- [Hardware](#hardware)
+- [IoT](#iot)
+- [Kubernetes](#kubernetes)
+- [Linux Distros](#distros)
+- [Local Container Images](#local-image)
+- [Local Software](#local-software)
+- [Mobile Distros](#mobile-distros)
+- [Server Container Images](server-images)
+- [Sites](#sites)
+- [Server Software](#server-software)
+- [Software as a Service](#saas)
+---
 
+<a id="articles"></a>
 ### Articles
 
 #### Audio
@@ -21,6 +36,10 @@
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [How to Create a Gitlab Merge Request Using Just One Command](https://javascript.plainenglish.io/how-to-create-gitlab-merge-request-using-one-command-a57d857ea94c)
+
+#### Hardware
+
+- [DIY NAS: 2023 Edition](https://blog.briancmoses.com/2023/03/diy-nas-2023-edition.html?ref=ajfriesen.com): uses the Topton motherboard for a nice compact and affordable NAS.
 
 #### Java
 
@@ -47,27 +66,27 @@ Includes articles on the Spring Framework, Maven, Gradle, Java libraries and oth
 - [How to compile Bash script into binary](https://www.simplified.guide/bash/compile-script)
 - [How to Pretty Print JSON File in Linux Terminal](https://itsfoss.com/pretty-print-json-linux/)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
+- [Enable PipeWire on Ubuntu 22.04](https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e): Github Girst on using PipeWire for audio and Bluetooth instead of PulseAudio.
+- [Hi-Res USB DAC Linux - PipeWire](https://forum.manjaro.org/t/howto-set-up-a-hi-res-audiophile-usb-dac-cambridge-audio/80724): nice post on setting the bitrate and bit depth of your USB DAC using PipeWire.
+- [Keychron Linux Fixes and Configuration](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195e444): useful Github Gist on using Keychron keyboards on Linux.
 
+<a id="hardware"></a>
 ### Hardware
 
 - [Rabbit R1](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date): AI-powered gadget that can use your apps for you.
 - [Topton N6005 / N5105 Mini-ITX NAS Motherboard](https://www.ebay.com/itm/126259718077): has embedded CPU, low powered motherboard and 6 SATA ports. An excellent for your own home server.
 
-### How To
-
-- [DIY NAS: 2023 Edition](https://blog.briancmoses.com/2023/03/diy-nas-2023-edition.html?ref=ajfriesen.com): uses the Topton motherboard for a nice compact and affordable NAS.
-- [Enable PipeWire on Ubuntu 22.04](https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e): Github Girst on using PipeWire for audio and Bluetooth instead of PulseAudio.
-- [Hi-Res USB DAC Linux - PipeWire](https://forum.manjaro.org/t/howto-set-up-a-hi-res-audiophile-usb-dac-cambridge-audio/80724): nice post on setting the bitrate and bit depth of your USB DAC using PipeWire.
-- [Keychron Linux Fixes and Configuration](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195e444): useful Github Gist on using Keychron keyboards on Linux.
-
+<a id="iot"></a>
 ### IoT
 
 - [Tasmota](https://tasmota.github.io/docs/): open source firmware for ESP devices.
 
+<a id="kubernetes"></a>
 ### Kubernetes
 
 - [KEDA](https://keda.sh/): KEDA is a Kubernetes-based Event Driven Autoscaler. With KEDA, you can drive the scaling of any container in Kubernetes based on the number of events needing to be processed.
 
+<a id="distros"></a>
 ### Linux Distros
 
 - [Daphile](https://www.daphile.com/): is an audiophile class music server & player OS - targeted to dedicated headless PC.
@@ -75,16 +94,26 @@ Includes articles on the Spring Framework, Maven, Gradle, Java libraries and oth
 - [Pop!_OS](https://pop.system76.com/): a very polished Ubuntu based distro for desktop, which includes a lot of enhancements, great graphic card hardware support and power management.
 - [Ubuntu Core](https://ubuntu.com/core): for IoT and embedded environments, optimised for security and reliable ota updates. Great for running containers on a low powered device such as a NUC.
 
+<a id="local-image"></a>
 ### Local Container Images
 
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac OS X in Docker with near-native performance. A very interesting project.
 
+<a id="local-software"></a>
+### Local Software
+
+- [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on Linux machine.
+- [Plexamp](https://www.plex.tv/plexamp/): completely custom music player for audiophiles. Integration available with Tidal and you can serve your own music from your Plex server.
+- [TIDAL Hi-Fi](https://github.com/Mastermindzh/tidal-hifi): The web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine for you Linux machine.
+
+<a id="mobile-distros"></a>
 ### Mobile Distros
 
 - [LineageOS](https://lineageos.org/): an open-source Android distribution without the bloat.
 - [postmarketOS](https://postmarketos.org/): real Linux distribution for phones based on Alpine Linux.
 - [Ubuntu Touch](https://ubuntu-touch.io/): is a mobile version of the Ubuntu operating system, being developed by the UBports community. 
 
+<a id="server-images"></a>
 ### Server Container Images
 
 - [Code-server](https://hub.docker.com/r/linuxserver/code-server): VS Code running in a container and accessible through the browser.
@@ -101,6 +130,7 @@ Includes articles on the Spring Framework, Maven, Gradle, Java libraries and oth
 - [VSCodium](https://hub.docker.com/r/linuxserver/vscodium): is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code that runs in a container and accessible through the browser.
 - [Watchtower](https://github.com/containrrr/watchtower): automates container base image updates.
 
+<a id="sites"></a>
 ### Sites
 
 - [AniChart](https://anichart.net/): great site for viewing the latest anime releases for the current season and past ones.
@@ -109,12 +139,7 @@ Includes articles on the Spring Framework, Maven, Gradle, Java libraries and oth
 - [Liliputing](http://liliputing.com/): Covering mobile tech news, tips and reviews with a focus on smartphones, tablets, notebook, and handheld computers as well as tiny desktop PCs.
 - [LinuxServer.io](https://www.linuxserver.io/): optimised, frequently updated community maintained container images.
 
-### Local Software
-
-- [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on Linux machine.
-- [Plexamp](https://www.plex.tv/plexamp/): completely custom music player for audiophiles. Integration available with Tidal and you can serve your own music from your Plex server.
-- [TIDAL Hi-Fi](https://github.com/Mastermindzh/tidal-hifi): The web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine for you Linux machine.
-
+<a id="server-software"></a>
 ### Server Software
 
 Provides interface normally through the browser, ideal for headless machine:
@@ -123,6 +148,7 @@ Provides interface normally through the browser, ideal for headless machine:
 - [Homebridge](https://homebridge.io/):  allows you to integrate with smart home devices that do not natively support HomeKit.
 - [Kasm Workspaces](https://kasmweb.com/): Streaming containerized apps and desktops to end-users. Offers community edition.
 
+<a id="saas"></a>
 ### Software as a Service (SaaS)
 
 - [gitignore.io](https://www.toptal.com/developers/gitignore/): quickly generate .gitignore file for your project.
