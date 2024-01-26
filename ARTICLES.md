@@ -95,6 +95,7 @@ _Lombok_
 _Maven_
 - [Additional Source Directories in Maven](https://www.baeldung.com/maven-add-src-directories)
 - [Cross Compiling In Java](https://blog.damavis.com/en/cross-compiling-in-java/)
+- [Using Maven’s Bill of Materials (BOM)](https://reflectoring.io/maven-bom/)
 
 _Mapping_
 - [Quick Guide to MapStruct](https://www.baeldung.com/mapstruct)
