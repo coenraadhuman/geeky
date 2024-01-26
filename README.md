@@ -38,7 +38,7 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 
 #### Handheld
 - [PowKiddy RGB30](https://retrogamecorps.com/2023/10/27/powkiddy-rgb30-starter-guide/): handheld console with a 1:1 720p screen, ARM quad-core 1.8GHz CPU, LPDDR4 1GB and built-in 4100mA li-polymer battery. Super cool device and well supported by JELOS Linux.
-- [Rabbit R1](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date): AI-powered gadget that can use your apps for you.
+- [Rabbit R1](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date): neural network gadget that uses two models; a natural language processing model and an software interface model that allows actions to be made for your apps using your voice.
 
 <a id="iot"></a>
 ### IoT
@@ -62,14 +62,14 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 <a id="local-image"></a>
 ### Local Container Images
 
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac OS X in Docker with near-native performance. A very interesting project.
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX): run Mac OS X in Docker with near-native performance. A very interesting project.
 
 <a id="local-software"></a>
 ### Local Software
 
 - [Lutris](https://lutris.net/): play all your games on Linux; helps running Battle.net, Epic Games and other on a Linux machine.
 - [Plexamp](https://www.plex.tv/plexamp/): completely custom music player for audiophiles. Integration available with Tidal and you can serve your own music from your Plex server.
-- [TIDAL Hi-Fi](https://github.com/Mastermindzh/tidal-hifi): The web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine for you Linux machine.
+- [TIDAL Hi-Fi](https://github.com/Mastermindzh/tidal-hifi): the web version of listen.tidal.com running in electron with Hi-Fi (High & Max) support thanks to widevine for you Linux machine.
 
 <a id="mobile-distros"></a>
 ### Mobile Distros
@@ -101,8 +101,8 @@ This has been moved to its own [markdown file](./ARTICLES.md) due to amount of c
 Provides interface normally through the browser, ideal for headless machine:
 
 - [Grafana](https://grafana.com/): is the open source analytics & monitoring solution for every database that you can host on your machine.
-- [Homebridge](https://homebridge.io/):  allows you to integrate with smart home devices that do not natively support HomeKit.
-- [Kasm Workspaces](https://kasmweb.com/): Streaming containerized apps and desktops to end-users. Offers community edition.
+- [Homebridge](https://homebridge.io/): allows you to integrate with smart home devices that do not natively support HomeKit.
+- [Kasm Workspaces](https://kasmweb.com/): streaming containerized apps and desktops to end-users. Offers community edition.
 
 <a id="sites"></a>
 ### Sites
@@ -110,7 +110,7 @@ Provides interface normally through the browser, ideal for headless machine:
 - [AniChart](https://anichart.net/): great site for viewing the latest anime releases for the current season and past ones.
 - [Ars Technica](https://arstechnica.com/): is a website covering news and opinions in technology, science, politics, and society.
 - [ExtremeTech](https://www.extremetech.com/): is a technology weblog, launched in June 2001, which focuses on hardware, computer software, science and other technologies.
-- [Liliputing](http://liliputing.com/): Covering mobile tech news, tips and reviews with a focus on smartphones, tablets, notebook, and handheld computers as well as tiny desktop PCs.
+- [Liliputing](http://liliputing.com/): covering mobile tech news, tips and reviews with a focus on smartphones, tablets, notebook, and handheld computers as well as tiny desktop PCs.
 - [LinuxServer.io](https://www.linuxserver.io/): optimised, frequently updated community maintained container images.
 
 <a id="saas"></a>
@@ -120,7 +120,7 @@ Provides interface normally through the browser, ideal for headless machine:
 - [Feedly](https://feedly.com/): news aggregator application for various web browsers and mobile devices running iOS and Android.
 - [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables#)
 - [No-IP](https://www.noip.com/): offers a couple of services, but great for Dynamic DNS for your home router.
-- [Playcode](https://playcode.io/): Browser base JavaScript playground and sandbox to write, run and repl it.
+- [Playcode](https://playcode.io/): browser base JavaScript playground and sandbox to write, run and repl it.
 - [Source Making](https://sourcemaking.com/): site focused on good software architecture by exploring design parterns, anti-patterns, refactoring and uml.
 
 <a id="framework"></a>
