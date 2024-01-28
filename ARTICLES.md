@@ -140,6 +140,7 @@ _XML_
 <a id="linux"></a>
 ### Linux
 
+- [Automate Flatpak Updates with Systemd](https://www.jwillikers.com/automate-flatpak-updates-with-systemd)
 - [Enable PipeWire on Ubuntu 22.04](https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e): Github Girst on using PipeWire for audio and Bluetooth instead of PulseAudio.
 - [How to compile Bash script into binary](https://www.simplified.guide/bash/compile-script)
 - [How to Pretty Print JSON File in Linux Terminal](https://itsfoss.com/pretty-print-json-linux/)
