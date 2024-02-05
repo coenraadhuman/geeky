@@ -1,3 +1,5 @@
+[![Image of github-profile-views-counter](https://github.com/coenraadhuman/github-profile-views-counter/blob/master/svg/744475921/badge.svg)](https://github.com/coenraadhuman/github-profile-views-counter/blob/master/readme/744475921/week.md)
+
 # geeky
 
 `geeky` is a list of technical articles, sites, software, hardware that I find interesting.
