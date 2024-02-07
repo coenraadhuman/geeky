@@ -87,6 +87,10 @@ _Libraries_
   
 _Logging_
 - [Changing the Logging Level at the Runtime for a Spring Boot Application](https://www.baeldung.com/spring-boot-changing-log-level-at-runtime)
+- [Improved Java Logging with Mapped Diagnostic Context (MDC)](https://www.baeldung.com/mdc-in-log4j-2-logback)
+- [Logbook](https://github.com/zalando/logbook): a great library for HTTP request and response logging on your service and HTTP client.
+- [Spring - Log Incoming Requests](https://www.baeldung.com/spring-http-logging)
+- [Understanding MDC and NDC Logging](https://medium.com/@sumanc/understanding-mdc-and-ndc-logging-for-its-usage-in-mulesoft-aa65831ea398)
 
 _Lombok_
 - [Lombok Configuration System](https://projectlombok.org/features/configuration)
@@ -125,6 +129,7 @@ _Spring_
 - [Introduction to Spring AOP](https://www.baeldung.com/spring-aop)
 - [Spring Candidate Component Index](http://www.javabyexamples.com/spring-candidate-component-index): useful when running Spring applications in containers to improve startup.
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/)
+- [What is Spring Boot Request Interceptor and How to Use It?](https://medium.com/@aedemirsen/what-is-spring-boot-request-interceptor-and-how-to-use-it-7fd85f3df7f7)
 
 _Testing_
 - [Guide to JUnit 5 Parameterized Tests](https://www.baeldung.com/parameterized-tests-junit-5)
