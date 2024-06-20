@@ -9,6 +9,7 @@ Interesting web articles found on the web.
 - [Git](#git)
 - [Hardware](#hardware)
 - [Java](#java)
+- [Kotlin](#kotlin)
 - [Linux](#linux)
 ---
 
@@ -141,6 +142,12 @@ _Validation_
 
 _XML_
 - [XPath Path Expressions](https://www.w3schools.com/xml/xml_xpath.asp)
+
+<a id="kotlin"></a>
+### Kotlin
+
+- [Design Patterns in Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+- [Java 8 Streams vs Kotlin](https://www.baeldung.com/kotlin/java-8-stream-vs-kotlin)
 
 <a id="linux"></a>
 ### Linux
